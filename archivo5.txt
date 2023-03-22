@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Datos viejos
+datos nuevos
+>>>>>>> 27b7ef951b4924d702e1aab9ae05cc28f28129fd
